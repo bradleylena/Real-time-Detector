@@ -23,3 +23,4 @@ Features
 ```bash
 pip install opencv-python ultralytics
 ```
+by Bradley Lenaiyarra
