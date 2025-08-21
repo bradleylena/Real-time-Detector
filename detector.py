@@ -48,7 +48,7 @@ while cap.isOpened():
         cv2.putText(frame, f'{category} ({label})', (x1, y1 - 10),
                     cv2.FONT_HERSHEY_SIMPLEX, 0.6, color, 2)
 
-    cv2.imshow("Only Objects + Animals", frame)
+    cv2.imshow("Only Objects + Animals by Bradley Lenaiyarra", frame)
 
  
     if cv2.waitKey(1) & 0xFF == 27:
