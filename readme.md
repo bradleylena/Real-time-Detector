@@ -1,4 +1,4 @@
-This project uses [YOLOv8](https://github.com/ultralytics/ultralytics) + OpenCV to detect real-world objects like Rubik's cubes, cameras, and animals
+my STEM project uses computer Vision to detect data and objects in real-time 
 
 Features
 
@@ -6,7 +6,7 @@ Features
 - Detects only selected objects (camera, phone, glasses, etc.)
 - Animal detection included (cat, dog, bird...)
 - Lightweight setup for low-end hardware
-- Clean Python code — beginner friendly
+  
 
 > Your webcam detects only what you want:
 
@@ -14,7 +14,7 @@ Features
 - ✅ Animals: `dog`, `cat`, `horse`, etc.
 - ❌ Ignores humans, cars, random stuff
 
-### 🔧 Requirements
+- requirements
 
 - Python 3.8+
 - OpenCV
