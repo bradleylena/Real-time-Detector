@@ -8,11 +8,11 @@ Features
 - Lightweight setup for low-end hardware
   
 
-> Your webcam detects only what you want:
+ so basically Your webcam detects only what you want:
 
-- ✅ Objects: `camera`, `glasses`, `cell phone`, `laptop`, etc.
-- ✅ Animals: `dog`, `cat`, `horse`, etc.
-- ❌ Ignores humans, cars, random stuff
+-  Objects: `camera`, `glasses`, `cell phone`, `laptop`, etc.
+- Animals: `dog`, `cat`, `horse`, etc.
+-  Ignores humans, cars, random stuff
 
 - requirements
 
